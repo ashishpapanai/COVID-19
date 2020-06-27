@@ -21,5 +21,5 @@ _You can choose any state or union-territory of your choice by cloning this repo
 
 Link to the data used [COVID-19 in India](https://www.kaggle.com/sudalairajkumar/covid19-in-india). <br />
 Link to the course mentioned [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting/home/welcome)
-###### Link to the repository [COVID-19](https://github.com/ashishpapanai/COVID-19)
+## Link to the repository [COVID-19 Lockdown Analysis](https://github.com/ashishpapanai/COVID-19)
 _This course doesn't make any prediction using machine learning, it's a simple data visualization made using matpplotlib, pandas, and numpy_
